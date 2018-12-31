@@ -8,7 +8,7 @@ description: an intro to this blog
 Hello to the cyberspace world. Our names are Julia and Emily. We are, respectively, a consultant and a computer scientist. We’ve been friends for years, and we have a lot of weird thoughts we finally decided to share with the world. That’s what this blog will be for: giving life to the strange thoughts that bounce around in our heads day-to-day. Some of these thoughts are significant; most of them aren’t. Regardless, we think we’re funny, and we know that the world can be downright mean. Sometimes, it’s nice to take life with a grain of salt and a laugh or two. We hope the Accidental Chia Pet can provide both for you.
 
 <div class="col two">
-<img class="col caption" src="{{ site.baseurl }}/img/julz_and_em.jpg">
+<img class="col caption" src="{{ site.baseurl }}/img/julz_and_em.JPG">
 <div class="col caption">
      The first-ever recorded photograph of Emily and Julia captures the things they cared about freshman year: math, baking, and overly-filtered Instagram photos. 
 </div>
