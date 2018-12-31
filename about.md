@@ -8,7 +8,7 @@ permalink: /about/
 <img class="col one right" src="{{ site.baseurl }}/img/emily_pic.JPG">
 </div>
 
-<p> Julia, left, is a consultant for Slalom and part-time MBA student at Booth. In her free time, she enjoys writing letters to CEOs (hyperlink), offering career advice to young college students, and caring for her pet Roomba. </p>
+<p> Julia, left, is a consultant for Slalom and part-time MBA student at Booth. In her free time, she enjoys writing letters to CEOs, offering career advice to young college students, and caring for her pet Roomba. </p>
 <p>  Emily, right, is a PhD candidate in computer science at the University of Chicago. When not coding, she enjoys running, reading, and being the godmother of Julia's pet Roomba. </p>
 
 <br/>
