@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div class="img_row">
 <img class="col one" src="{{ site.baseurl }}/img/julia_pic.jpg">
-<img class="col one right" src="{{ site.baseurl }}/img/emily_pic.jpg">
+<img class="col one right" src="{{ site.baseurl }}/img/emily_pic.JPG">
 </div>
 
 <p> Julia, left, is a consultant for Slalom and part-time MBA student at Booth. In her free time, she enjoys writing letters to CEOs (hyperlink), offering career advice to young college students, and caring for her pet Roomba. </p>
