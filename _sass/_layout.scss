@@ -262,6 +262,11 @@ padding: $img_spacing;
 .right{
 float: right;
 }
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
 .one {
 width:33.33%;
 }

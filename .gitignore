@@ -1,5 +1,5 @@
-# Created by https://www.gitignore.io/api/emacs,jekyll
-# Edit at https://www.gitignore.io/?templates=emacs,jekyll
+# Created by https://www.gitignore.io/api/emacs,jekyll Edit at
+# https://www.gitignore.io/?templates=emacs,jekyll
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
@@ -54,6 +54,8 @@ flycheck_*.el
 
 ### Jekyll ###
 _site/
+_portfolio/
+_poetry/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
