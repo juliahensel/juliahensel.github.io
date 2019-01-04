@@ -13,9 +13,19 @@
           href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <style type="text/css">
       #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-      /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	 We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
     </style>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131745020-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      gtag('config', 'UA-131745020-1');
+    </script>
 
+    <!-- Tag for RSS purposes -->
     {% feed_meta %}
+    
 </head>
