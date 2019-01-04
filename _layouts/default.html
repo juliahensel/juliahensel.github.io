@@ -14,6 +14,10 @@
       </div>
     </div>
 
+    {% if page.subscription-form %}
+    {% include subscription.html %}
+    {% endif %}
+    
     {% include footer.html %}
 
   </body>
