@@ -4,6 +4,7 @@ title:  i'm a yogurt-eating bathrobe-dweller
 date:   2019-02-23 19:49:28
 description: on seeing humanity in everyone.
 author: Emily
+comments: true
 ---
 
 In my previous job, I spent most of my day projecting an image of confidence I didn’t always feel. Partly this projection is my personality — I have a special knack for appearing to know what I’m doing when actually I’m panicking inside (this has gotten my family lost on road trips on more than one occasion). Partly this was because I was often the only woman in the room and consequently felt a strange pressure to appear highly competent (this will be the subject of a later post). And partly, this was because others in my office appeared to be so competent and confident and knowledgable — I just wanted to fit and be respected. 
